@@ -28,6 +28,7 @@ int main(void)
     	}
     	if (flag_up){
     		counter++;
+    		counter++;
     		flag_up = 0; //reset
     	}
     	if (flag_down){
